@@ -1,16 +1,16 @@
-# Naroxon_Xsens_Gait (Public Version)
+# cIMU-Xsens-rIMU-Noraxon-Gait-Amputees-Code (Public Version)
 
 ## Overview
-This repository contains the public-safe workflow structure for a gait analysis project using Xsens and Noraxon data.
+This repository provides a public-safe version of the workflow structure used for an IMU-based gait analysis project comparing Xsens and Noraxon data. The repository is intended to document the overall processing pipeline, script organization, and analysis workflow used in the study.
 
-The repository is shared to document the project pipeline, script organization, and overall processing workflow while some core algorithmic implementations are temporarily withheld.
+At this stage, selected core signal-processing and gait-event detection modules are provided as placeholder files only, while copyright and ownership clearance is pending. Therefore, this repository should be interpreted as a workflow-level transparency resource rather than a fully executable reproduction package.
 
 ## Included Files
 This public version includes the following modules:
 
 - `main_1_ProcessingXsensData.py`
 - `main_2_ResultXsens.py`
-- `main_3_ResultNaroxon.py`
+- `main_3_ResultNoraxon.py`
 - `selected.py`
 - `divided.py`
 - `addAllStep.py`
